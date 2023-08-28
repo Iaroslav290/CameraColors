@@ -16,7 +16,6 @@
 		C4C3A81D2A25678300F99342 /* Camera_colorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C3A81C2A25678300F99342 /* Camera_colorsTests.swift */; };
 		C4C3A8272A25678300F99342 /* Camera_colorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C3A8262A25678300F99342 /* Camera_colorsUITests.swift */; };
 		C4C3A8292A25678300F99342 /* Camera_colorsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C3A8282A25678300F99342 /* Camera_colorsUITestsLaunchTests.swift */; };
-		C4C3A8362A257CF000F99342 /* k.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C3A8352A257CF000F99342 /* k.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		C4C3A8222A25678300F99342 /* Camera colorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Camera colorsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4C3A8262A25678300F99342 /* Camera_colorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera_colorsUITests.swift; sourceTree = "<group>"; };
 		C4C3A8282A25678300F99342 /* Camera_colorsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera_colorsUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		C4C3A8352A257CF000F99342 /* k.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = k.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +106,6 @@
 				C4C3A80E2A25678300F99342 /* Assets.xcassets */,
 				C4C3A8102A25678300F99342 /* LaunchScreen.storyboard */,
 				C4C3A8132A25678300F99342 /* Info.plist */,
-				C4C3A8352A257CF000F99342 /* k.swift */,
 			);
 			path = "Camera colors";
 			sourceTree = "<group>";
@@ -262,7 +259,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4C3A80A2A25678200F99342 /* ViewController.swift in Sources */,
-				C4C3A8362A257CF000F99342 /* k.swift in Sources */,
 				C4C3A8062A25678200F99342 /* AppDelegate.swift in Sources */,
 				C4C3A8082A25678200F99342 /* SceneDelegate.swift in Sources */,
 			);
